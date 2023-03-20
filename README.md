@@ -15,3 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning GIT LOL
+
+Portfolio:
+
+⚡Personal Website: https://jigomezit.com
+Tech: GitHub, Netlify and Route53
+
+⚡Resume Website: https://resume.jigomezit.com
+Tech: AWS S3, CloudFront, Route53 and Certificate Manager
+
